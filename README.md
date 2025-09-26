@@ -2,7 +2,8 @@
 
 This repository contains Python scripts to generate and analyze different types of RF pulses commonly used in NMR and MRI experiments. 
 
-- Rectangular (hard) pulses
+- Rectangular (hard) pulses.
+- Composite/Binomial pulses.
 
 
 ## Purpose
